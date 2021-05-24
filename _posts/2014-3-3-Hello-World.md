@@ -5,3 +5,4 @@ published: true
 ---
 
 Hiya there, It's sammy. 
+$$\sigma + \alpha = \frac{\sigma\alpha}{2}$$
